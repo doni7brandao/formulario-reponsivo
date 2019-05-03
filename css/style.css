@@ -61,7 +61,7 @@
 	.formulario select.pp{ width:30%;}
 
 	.formulario textarea.g{ width:80%;}
-	.formulario textarea.m{ width:60%;}
+	.formulario textarea.m{ width:100%;}
 	.formulario textarea.p{ width:50%;}
 	.formulario textarea.pp{ width:30%;}
 	}
